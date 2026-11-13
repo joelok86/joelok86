@@ -1,6 +1,6 @@
 # Hi, I'm Jyothi Lokanadham
 
-## Epidemiologist | Biomedical Data Scientist
+## Epidemiologist 
 
 Welcome to my GitHub!
 
