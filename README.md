@@ -14,8 +14,7 @@ I enjoy solving complex analytical problems at the intersection of epidemiology,
 
 - Clinical Data Science
 - Disease Surveillance & Registries
-- Translational Research
-- Neuroscience
+- Genetic Epidemiology
 - Medical Imaging
 - Machine Learning
 - Spatial Epidemiology
@@ -37,6 +36,7 @@ I enjoy solving complex analytical problems at the intersection of epidemiology,
 - Statistical Modeling
 - Machine Learning
 - Survival Analysis
+- Genetic Data Analysis
 - Mixed Effects Models
 - GIS & Spatial Statistics
 - Data Linkage
